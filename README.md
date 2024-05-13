@@ -1,4 +1,4 @@
-# Power-Bi--R.K-Mart-sales-Report
+# Power-Bi
 
 Project key point
 Data collection
